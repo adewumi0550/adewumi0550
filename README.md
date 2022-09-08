@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adewumi Emerald</h1>
-<h3 align="center">I am a certified Software Engineer AWS Cloud practitioner and Google Cloud Data engineer (Qwiklab).. I am a competent clean code writer for back end and structured architecture (Testing Domain Driven & Domain Driven Design) in Mobile Development which may be confirmed at GitHub repo</h3>
+<h3 align="center">I am a Software Engineer and certified  Cloud practitioner. I am a competent clean code  for back end and structured architecture (Testing Domain Driven & Domain Driven Design) in Mobile Development which may be confirmed at GitHub repo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adewumi0550&label=Profile%20views&color=0e75b6&style=flat" alt="adewumi0550" /> </p>
 
