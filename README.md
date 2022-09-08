@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/adewumisaheeda2" target="blank"><img src="https://img.shields.io/twitter/follow/adewumisaheeda2?logo=twitter&style=for-the-badge" alt="adewumisaheeda2" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
-
 - 📝 I regularly write articles on [medium](medium)
 
 - 💬 Ask me about **Flutter, Cloud, DevOps**
