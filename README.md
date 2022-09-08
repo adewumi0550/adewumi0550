@@ -1,5 +1,5 @@
 <h1 align="center">Hello, <a href="adewumiadewale.dev">I'm Adewumi Saheed 👋</a></h1>
-<h3 align="center">I am a Software Engineer and certified  Cloud practitioner. Back-end Developer 🥷🏻🥷 </h3>
+<h3 align="center">I am a Senior Mobile Engineer, Back-end Developer 🥷🏻🥷 and certified  Cloud practitioner.  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adewumi0550&label=Profile%20views&color=0e75b6&style=flat" alt="adewumi0550" /> </p>
 
