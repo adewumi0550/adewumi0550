@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adewumisaheeda2" target="blank"><img src="https://img.shields.io/twitter/follow/adewumisaheeda2?logo=twitter&style=for-the-badge" alt="adewumisaheeda2" /></a> </p>
 
-- 📝 I regularly write articles on [medium](medium)
+- 📝 I regularly write articles on [medium](https://medium.com/@adewumiadewale493)
 
 - 💬 Ask me about **Flutter, Cloud, DevOps**
 
